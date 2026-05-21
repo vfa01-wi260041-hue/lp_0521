@@ -19,3 +19,5 @@
 ## コンフリクト練習PC
 
 ## Conflicted area
+
+## brain rot
