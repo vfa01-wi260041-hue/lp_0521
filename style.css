@@ -5,15 +5,18 @@
     justify-content: center;
     flex-direction: column;
     width: 100%;
-    background-color:gray;
+    background-color:whitesmoke;
 }
 .images img{
     width:300px;
     height:300px; 
+    border-radius: 20px;
+    margin: 20px;
+    border: 2px solid blueviolet;
 }
 
 h1{
-    color: white;
+    color: blueviolet;
     font-family: "Yu Gothic Medium", "Yu Gothic", sans-serif;
     font-size: 50px;
     margin: 20px;
